@@ -1,0 +1,63 @@
+about:
+  description: Free, open source crypto trading bot
+  license: GPL-3.0
+  homepage: https://www.freqtrade.io
+  head: 2a5b89a
+  archived: false
+  latestVersion: 2026.8
+  collectedAt: 2026-09-01T05:46:02Z
+timeline:
+  created: 2017-05-17
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-31
+popularity:
+  star: 53878
+  watcher: 771
+  fork: 11189
+  release: 117
+  contributor: 337
+  pullRequest: 1020
+  issue: 5670
+language:
+  Python: 5302090
+  Jinja: 38642
+  PowerShell: 15797
+  Jupyter Notebook: 14363
+  Shell: 10740
+  Dockerfile: 1551
+  HTML: 753
+  Gnuplot: 221
+totalLine: 5384157
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 1
+    mergedPR: 69
+    openPR: 5
+    closedIssue: 24
+    openIssue: 4
+    commit: 224
+  last90d:
+    since: 2026-06-03
+    release: 4
+    mergedPR: 192
+    openPR: 6
+    closedIssue: 51
+    openIssue: 4
+    commit: 812
+  last180d:
+    since: 2026-03-05
+    release: 7
+    mergedPR: 392
+    openPR: 6
+    closedIssue: 110
+    openIssue: 5
+    commit: 1611
+  last360d:
+    since: 2025-09-06
+    release: 16
+    mergedPR: 786
+    openPR: 7
+    closedIssue: 315
+    openIssue: 5
+    commit: 3567
