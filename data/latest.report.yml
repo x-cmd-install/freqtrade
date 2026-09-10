@@ -7,7 +7,7 @@ about:
   latestVersion: "2026.8"
   latestRelease: "2026.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T15:50:16Z
+  collectedAt: 2026-09-10T20:15:10Z
 timeline:
   created: 2017-05-17
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 54231
+  star: 54237
   watcher: 776
-  fork: 11248
+  fork: 11251
   release: 117
   contributor: 338
   pullRequest: 7762
@@ -90,7 +90,7 @@ total:
   commit: 32849
 ---
 path: /home/runner/.x-repo/github.com/freqtrade/freqtrade
-collectedAt: 2026-09-10T15:51:04Z
+collectedAt: 2026-09-10T20:15:58Z
 loc:
   Json:
     code: 126834
