@@ -12,33 +12,6 @@ Free, open source crypto trading bot
 x install freqtrade
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/freqtrade/freqtrade>
-- **官网**: <https://www.freqtrade.io>
-- **许可证**: GPL-3.0
-
-## 发布
-
-- **最新版本**: `2026.8` (2026-08-31)
-- **最近提交**: 2026-09-10
-
-## 流行度
-
-- **Star**: 54,231 · **Fork**: 11,248 · **开放 issue**: 5,679 · **贡献者**: 338
-
-## 累计统计
-
-- **发布数**: 117 · **已合并 PR**: 6737 · **开放 PR**: 7 · **已关闭 issue**: 5657 · **开放 issue**: 22 · **提交数**: 32849
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 53 | 2 | 31 | 2 | 253 |
-| 90d | 2026-06-12 | 3 | 196 | 3 | 56 | 2 | 843 |
-| 360d | 2025-09-15 | 16 | 773 | 4 | 311 | 3 | 3570 |
-
 ## 代码规模
 
 合计: **249,027** 行代码（覆盖前 5 种语言、共 **532** 个文件）。
@@ -61,6 +34,36 @@ x install freqtrade
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/freqtrade/freqtrade>
+- **官网**: <https://www.freqtrade.io>
+- **许可证**: GPL-3.0
+
+## 发布
+
+- **最新版本**: `2026.8` (2026-08-31)
+- **最近提交**: 2026-09-10
+
+## 流行度
+
+- **Star**: 54,237 · **Fork**: 11,251 · **开放 issue**: 5,679 · **贡献者**: 338
+
+## 累计统计
+
+- **发布数**: 117 · **已合并 PR**: 6737 · **开放 PR**: 7 · **已关闭 issue**: 5657 · **开放 issue**: 22 · **提交数**: 32849
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 53 | 2 | 31 | 2 | 253 |
+| last60d | 2026-07-12 | 2 | 134 | 3 | 42 | 2 | 560 |
+| 90d | 2026-06-12 | 3 | 196 | 3 | 56 | 2 | 843 |
+| last180d | 2026-03-14 | 7 | 393 | 3 | 112 | 2 | 1592 |
+| 360d | 2025-09-15 | 16 | 773 | 4 | 311 | 3 | 3570 |
+| last720d | 2024-09-20 | 29 | 1492 | 6 | 1003 | 3 | 6707 |
+
 ## 改进这些数据
 
 freqtrade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `freqtrade` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -70,4 +73,4 @@ freqtrade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T15:51:11Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:16:04Z._

@@ -12,34 +12,7 @@ Free, open source crypto trading bot
 x install freqtrade
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/freqtrade/freqtrade>
-- **Homepage**: <https://www.freqtrade.io>
-- **License**: GPL-3.0
-
-## Release
-
-- **Latest**: `2026.8` (2026-08-31)
-- **Last commit**: 2026-09-10
-
-## Popularity
-
-- **Stars**: 54,231 · **Forks**: 11,248 · **Open issues**: 5,679 · **Contributors**: 338
-
-## Totals (cumulative)
-
-- **Releases**: 117 · **Merged PRs**: 6737 · **Open PRs**: 7 · **Closed issues**: 5657 · **Open issues**: 22 · **Commits**: 32849
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 53 | 2 | 31 | 2 | 253 |
-| 90d | 2026-06-12 | 3 | 196 | 3 | 56 | 2 | 843 |
-| 360d | 2025-09-15 | 16 | 773 | 4 | 311 | 3 | 3570 |
-
-## Code size
+## Code insight
 
 Total: **249,027** lines of code across **532** files in the top 5 languages.
 
@@ -61,6 +34,36 @@ Lowest-scoring checks:
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
+## Source
+
+- **Upstream**: <https://github.com/freqtrade/freqtrade>
+- **Homepage**: <https://www.freqtrade.io>
+- **License**: GPL-3.0
+
+## Release
+
+- **Latest**: `2026.8` (2026-08-31)
+- **Last commit**: 2026-09-10
+
+## Popularity
+
+- **Stars**: 54,237 · **Forks**: 11,251 · **Open issues**: 5,679 · **Contributors**: 338
+
+## Totals (cumulative)
+
+- **Releases**: 117 · **Merged PRs**: 6737 · **Open PRs**: 7 · **Closed issues**: 5657 · **Open issues**: 22 · **Commits**: 32849
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 53 | 2 | 31 | 2 | 253 |
+| last60d | 2026-07-12 | 2 | 134 | 3 | 42 | 2 | 560 |
+| 90d | 2026-06-12 | 3 | 196 | 3 | 56 | 2 | 843 |
+| last180d | 2026-03-14 | 7 | 393 | 3 | 112 | 2 | 1592 |
+| 360d | 2025-09-15 | 16 | 773 | 4 | 311 | 3 | 3570 |
+| last720d | 2024-09-20 | 29 | 1492 | 6 | 1003 | 3 | 6707 |
+
 ## Improve this data
 
 Install metadata for freqtrade lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `freqtrade` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -70,4 +73,4 @@ Install metadata for freqtrade lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:51:10Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:16:03Z._
