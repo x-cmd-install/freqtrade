@@ -7,7 +7,7 @@ about:
   latestVersion: "2026.8"
   latestRelease: "2026.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T03:43:43Z
+  collectedAt: 2026-09-11T20:47:09Z
 timeline:
   created: 2017-05-17
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 54253
-  watcher: 776
-  fork: 11252
+  star: 54275
+  watcher: 777
+  fork: 11257
   release: 117
   contributor: 338
   pullRequest: 7763
@@ -37,7 +37,7 @@ recent:
     since: 2026-08-12
     release: 1
     mergedPR: 53
-    openPR: 3
+    openPR: 2
     closedIssue: 30
     openIssue: 2
     commit: 253
@@ -45,7 +45,7 @@ recent:
     since: 2026-07-13
     release: 2
     mergedPR: 126
-    openPR: 4
+    openPR: 3
     closedIssue: 42
     openIssue: 2
     commit: 560
@@ -53,7 +53,7 @@ recent:
     since: 2026-06-13
     release: 3
     mergedPR: 196
-    openPR: 4
+    openPR: 3
     closedIssue: 56
     openIssue: 2
     commit: 843
@@ -61,7 +61,7 @@ recent:
     since: 2026-03-15
     release: 7
     mergedPR: 393
-    openPR: 4
+    openPR: 3
     closedIssue: 112
     openIssue: 2
     commit: 1592
@@ -69,7 +69,7 @@ recent:
     since: 2025-09-16
     release: 16
     mergedPR: 771
-    openPR: 5
+    openPR: 4
     closedIssue: 309
     openIssue: 3
     commit: 3570
@@ -77,20 +77,20 @@ recent:
     since: 2024-09-21
     release: 29
     mergedPR: 1492
-    openPR: 7
+    openPR: 6
     closedIssue: 1001
     openIssue: 3
     commit: 6701
 total:
   release: 117
   mergedPR: 6737
-  openPR: 8
+  openPR: 7
   closedIssue: 5657
   openIssue: 22
   commit: 32849
 ---
 path: /home/runner/.x-repo/github.com/freqtrade/freqtrade
-collectedAt: 2026-09-11T03:44:21Z
+collectedAt: 2026-09-11T20:47:46Z
 loc:
   Json:
     code: 126834
