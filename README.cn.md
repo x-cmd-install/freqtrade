@@ -26,11 +26,11 @@ x install freqtrade
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.6 / 10**
+总评分: **6.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 1/9 approved changesets -- score normalized to 1
+- **Code-Review** (3/10) — Found 1/3 approved changesets -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -43,26 +43,26 @@ x install freqtrade
 ## 发布
 
 - **最新版本**: `2026.8` (2026-08-31)
-- **最近提交**: 2026-09-14
+- **最近提交**: 2026-09-15
 
 ## 流行度
 
-- **Star**: 54,400 · **Fork**: 11,280 · **开放 issue**: 5,680 · **贡献者**: 338
+- **Star**: 54,429 · **Fork**: 11,287 · **开放 issue**: 5,680 · **贡献者**: 338
 
 ## 累计统计
 
-- **发布数**: 117 · **已合并 PR**: 6747 · **开放 PR**: 9 · **已关闭 issue**: 5658 · **开放 issue**: 22 · **提交数**: 32894
+- **发布数**: 117 · **已合并 PR**: 6748 · **开放 PR**: 6 · **已关闭 issue**: 5658 · **开放 issue**: 22 · **提交数**: 32896
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 62 | 4 | 24 | 2 | 224 |
-| last60d | 2026-07-17 | 2 | 131 | 5 | 41 | 2 | 530 |
-| 90d | 2026-06-17 | 3 | 192 | 5 | 56 | 2 | 826 |
-| last180d | 2026-03-19 | 7 | 384 | 5 | 109 | 2 | 1577 |
-| 360d | 2025-09-20 | 16 | 780 | 6 | 307 | 3 | 3557 |
-| last720d | 2024-09-25 | 29 | 1488 | 8 | 994 | 3 | 6691 |
+| 30d | 2026-08-17 | 1 | 57 | 1 | 24 | 2 | 227 |
+| last60d | 2026-07-18 | 2 | 131 | 2 | 40 | 2 | 533 |
+| 90d | 2026-06-18 | 3 | 192 | 2 | 53 | 2 | 829 |
+| last180d | 2026-03-20 | 7 | 385 | 2 | 108 | 2 | 1580 |
+| 360d | 2025-09-21 | 16 | 780 | 3 | 307 | 3 | 3560 |
+| last720d | 2024-09-26 | 29 | 1487 | 5 | 992 | 3 | 6685 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ freqtrade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T04:02:40Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T03:59:38Z._
