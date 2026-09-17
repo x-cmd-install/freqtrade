@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 54,429 · **Forks**: 11,287 · **Open issues**: 5,680 · **Contributors**: 338
+- **Stars**: 54,455 · **Forks**: 11,292 · **Open issues**: 5,681 · **Contributors**: 337
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 6748 · **Open PRs**: 6 · **Closed issues**: 5658 · **Open issues**: 22 · **Commits**: 32896
+- **Releases**: 117 · **Merged PRs**: 6748 · **Open PRs**: 7 · **Closed issues**: 5658 · **Open issues**: 23 · **Commits**: 32896
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 57 | 1 | 24 | 2 | 227 |
-| last60d | 2026-07-18 | 2 | 131 | 2 | 40 | 2 | 533 |
-| 90d | 2026-06-18 | 3 | 192 | 2 | 53 | 2 | 829 |
-| last180d | 2026-03-20 | 7 | 385 | 2 | 108 | 2 | 1580 |
-| 360d | 2025-09-21 | 16 | 780 | 3 | 307 | 3 | 3560 |
-| last720d | 2024-09-26 | 29 | 1487 | 5 | 992 | 3 | 6685 |
+| 30d | 2026-08-18 | 1 | 51 | 2 | 24 | 3 | 227 |
+| last60d | 2026-07-19 | 2 | 130 | 3 | 40 | 3 | 533 |
+| 90d | 2026-06-19 | 3 | 192 | 3 | 53 | 3 | 829 |
+| last180d | 2026-03-21 | 7 | 385 | 3 | 108 | 3 | 1580 |
+| 360d | 2025-09-22 | 16 | 770 | 4 | 304 | 4 | 3560 |
+| last720d | 2024-09-27 | 29 | 1487 | 6 | 988 | 4 | 6675 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for freqtrade lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T03:59:37Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:06:16Z._
