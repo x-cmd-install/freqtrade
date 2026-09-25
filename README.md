@@ -14,11 +14,11 @@ x install freqtrade
 
 ## Code insight
 
-Total: **250,007** lines of code across **533** files in the top 5 languages.
+Total: **251,285** lines of code across **533** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 126,705 | 0 | 2 | 19 |
+| Json | 127,983 | 0 | 2 | 19 |
 | Python | 120,608 | 6,448 | 19,181 | 487 |
 | Jinja2 | 951 | 0 | 113 | 22 |
 | PowerShell | 386 | 18 | 63 | 2 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2026.8` (2026-08-31)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-24
 
 ## Popularity
 
-- **Stars**: 54,733 · **Forks**: 11,347 · **Open issues**: 5,685 · **Contributors**: 337
+- **Stars**: 54,770 · **Forks**: 11,352 · **Open issues**: 5,686 · **Contributors**: 337
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 6765 · **Open PRs**: 8 · **Closed issues**: 5663 · **Open issues**: 22 · **Commits**: 32967
+- **Releases**: 117 · **Merged PRs**: 6766 · **Open PRs**: 7 · **Closed issues**: 5663 · **Open issues**: 23 · **Commits**: 32969
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 56 | 3 | 23 | 2 | 208 |
-| last60d | 2026-07-26 | 2 | 134 | 4 | 43 | 2 | 551 |
-| 90d | 2026-06-26 | 3 | 197 | 4 | 57 | 2 | 861 |
-| last180d | 2026-03-28 | 7 | 384 | 4 | 108 | 2 | 1588 |
-| 360d | 2025-09-29 | 16 | 777 | 5 | 301 | 3 | 3571 |
-| last720d | 2024-10-04 | 28 | 1486 | 7 | 986 | 3 | 6656 |
+| 30d | 2026-08-26 | 1 | 57 | 2 | 22 | 3 | 211 |
+| last60d | 2026-07-27 | 2 | 119 | 3 | 43 | 3 | 554 |
+| 90d | 2026-06-27 | 3 | 198 | 3 | 57 | 3 | 864 |
+| last180d | 2026-03-29 | 7 | 385 | 3 | 107 | 3 | 1591 |
+| 360d | 2025-09-30 | 15 | 776 | 4 | 298 | 4 | 3574 |
+| last720d | 2024-10-05 | 28 | 1487 | 6 | 983 | 4 | 6628 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for freqtrade lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T03:50:57Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:05:32Z._
