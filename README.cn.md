@@ -19,7 +19,7 @@ x install freqtrade
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 129,299 | 0 | 2 | 19 |
-| Python | 120,940 | 6,466 | 19,221 | 487 |
+| Python | 120,940 | 6,467 | 19,221 | 487 |
 | Jinja2 | 951 | 0 | 113 | 22 |
 | PowerShell | 386 | 18 | 63 | 2 |
 | Svg | 351 | 0 | 0 | 3 |
@@ -30,7 +30,7 @@ x install freqtrade
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 1/4 approved changesets -- score normalized to 2
+- **Code-Review** (1/10) — Found 1/7 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -47,22 +47,22 @@ x install freqtrade
 
 ## 流行度
 
-- **Star**: 55,057 · **Fork**: 11,382 · **开放 issue**: 5,686 · **贡献者**: 337
+- **Star**: 55,077 · **Fork**: 11,380 · **开放 issue**: 5,686 · **贡献者**: 337
 
 ## 累计统计
 
-- **发布数**: 118 · **已合并 PR**: 6792 · **开放 PR**: 6 · **已关闭 issue**: 5663 · **开放 issue**: 23 · **提交数**: 33053
+- **发布数**: 118 · **已合并 PR**: 6793 · **开放 PR**: 7 · **已关闭 issue**: 5663 · **开放 issue**: 23 · **提交数**: 33069
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 66 | 2 | 11 | 3 | 197 |
-| last60d | 2026-08-07 | 2 | 119 | 2 | 39 | 3 | 487 |
-| 90d | 2026-07-08 | 3 | 196 | 3 | 51 | 3 | 819 |
-| last180d | 2026-04-09 | 7 | 372 | 3 | 99 | 3 | 1504 |
-| 360d | 2025-10-11 | 15 | 783 | 4 | 280 | 4 | 3525 |
-| last720d | 2024-10-16 | 29 | 1488 | 5 | 964 | 4 | 6628 |
+| 30d | 2026-09-07 | 1 | 58 | 3 | 10 | 3 | 210 |
+| last60d | 2026-08-08 | 2 | 120 | 3 | 39 | 3 | 500 |
+| 90d | 2026-07-09 | 3 | 195 | 4 | 49 | 3 | 832 |
+| last180d | 2026-04-10 | 7 | 373 | 4 | 98 | 3 | 1517 |
+| 360d | 2025-10-12 | 15 | 784 | 5 | 277 | 4 | 3542 |
+| last720d | 2024-10-17 | 29 | 1487 | 6 | 964 | 4 | 6643 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ freqtrade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T05:32:33Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T05:02:40Z._
