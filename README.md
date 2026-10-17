@@ -14,12 +14,12 @@ x install freqtrade
 
 ## Code insight
 
-Total: **254,850** lines of code across **533** files in the top 5 languages.
+Total: **254,913** lines of code across **533** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 130,096 | 0 | 2 | 19 |
-| Python | 122,056 | 6,589 | 19,406 | 487 |
+| Python | 122,119 | 6,589 | 19,410 | 487 |
 | Jinja2 | 951 | 0 | 113 | 22 |
 | PowerShell | 395 | 18 | 65 | 2 |
 | Svg | 351 | 0 | 0 | 3 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2026.9` (2026-09-29)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-16
 
 ## Popularity
 
-- **Stars**: 55,438 · **Forks**: 11,464 · **Open issues**: 5,695 · **Contributors**: 338
+- **Stars**: 55,475 · **Forks**: 11,475 · **Open issues**: 5,696 · **Contributors**: 339
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 6808 · **Open PRs**: 8 · **Closed issues**: 5674 · **Open issues**: 21 · **Commits**: 33182
+- **Releases**: 118 · **Merged PRs**: 6810 · **Open PRs**: 7 · **Closed issues**: 5674 · **Open issues**: 22 · **Commits**: 33189
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 59 | 5 | 16 | 2 | 256 |
-| last60d | 2026-08-17 | 2 | 116 | 5 | 42 | 2 | 525 |
-| 90d | 2026-07-18 | 3 | 191 | 5 | 56 | 2 | 869 |
-| last180d | 2026-04-19 | 7 | 376 | 5 | 105 | 2 | 1580 |
-| 360d | 2025-10-21 | 15 | 770 | 6 | 277 | 2 | 3607 |
-| last720d | 2024-10-26 | 29 | 1484 | 7 | 962 | 2 | 6671 |
+| 30d | 2026-09-17 | 1 | 60 | 4 | 15 | 3 | 264 |
+| last60d | 2026-08-18 | 2 | 112 | 4 | 42 | 3 | 533 |
+| 90d | 2026-07-19 | 3 | 192 | 4 | 56 | 3 | 877 |
+| last180d | 2026-04-20 | 7 | 366 | 4 | 105 | 3 | 1588 |
+| 360d | 2025-10-22 | 15 | 772 | 5 | 277 | 3 | 3615 |
+| last720d | 2024-10-27 | 29 | 1486 | 6 | 960 | 3 | 6677 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for freqtrade lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T03:45:16Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T03:35:40Z._
