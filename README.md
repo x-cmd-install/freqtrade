@@ -14,7 +14,7 @@ x install freqtrade
 
 ## Code insight
 
-Total: **255,030** lines of code across **533** files in the top 5 languages.
+Total: **255,031** lines of code across **533** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2026.9` (2026-09-29)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-19
 
 ## Popularity
 
-- **Stars**: 55,579 · **Forks**: 11,513 · **Open issues**: 5,698 · **Contributors**: 340
+- **Stars**: 55,654 · **Forks**: 11,529 · **Open issues**: 5,698 · **Contributors**: 340
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 6814 · **Open PRs**: 15 · **Closed issues**: 5676 · **Open issues**: 22 · **Commits**: 33209
+- **Releases**: 118 · **Merged PRs**: 6821 · **Open PRs**: 7 · **Closed issues**: 5676 · **Open issues**: 22 · **Commits**: 33227
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 64 | 12 | 17 | 3 | 226 |
-| last60d | 2026-08-20 | 2 | 115 | 12 | 43 | 3 | 475 |
-| 90d | 2026-07-21 | 3 | 184 | 12 | 57 | 3 | 844 |
-| last180d | 2026-04-22 | 7 | 369 | 12 | 106 | 3 | 1554 |
-| 360d | 2025-10-24 | 15 | 774 | 13 | 272 | 3 | 3565 |
-| last720d | 2024-10-29 | 29 | 1481 | 14 | 958 | 3 | 6670 |
+| 30d | 2026-09-20 | 1 | 71 | 4 | 16 | 3 | 246 |
+| last60d | 2026-08-21 | 2 | 121 | 4 | 43 | 3 | 495 |
+| 90d | 2026-07-22 | 3 | 191 | 4 | 57 | 3 | 864 |
+| last180d | 2026-04-23 | 7 | 375 | 4 | 105 | 3 | 1574 |
+| 360d | 2025-10-25 | 15 | 779 | 5 | 271 | 3 | 3585 |
+| last720d | 2024-10-30 | 29 | 1486 | 6 | 958 | 3 | 6667 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for freqtrade lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T03:51:43Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:05:04Z._
