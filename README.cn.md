@@ -26,13 +26,13 @@ x install freqtrade
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.9 / 10**
+总评分: **7.2 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 3/14 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install freqtrade
 
 ## 流行度
 
-- **Star**: 55,676 · **Fork**: 11,535 · **开放 issue**: 5,701 · **贡献者**: 340
+- **Star**: 55,718 · **Fork**: 11,540 · **开放 issue**: 5,702 · **贡献者**: 340
 
 ## 累计统计
 
-- **发布数**: 118 · **已合并 PR**: 6823 · **开放 PR**: 8 · **已关闭 issue**: 5677 · **开放 issue**: 24 · **提交数**: 33278
+- **发布数**: 118 · **已合并 PR**: 6823 · **开放 PR**: 10 · **已关闭 issue**: 5679 · **开放 issue**: 23 · **提交数**: 33278
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 59 | 5 | 17 | 5 | 270 |
-| last60d | 2026-08-22 | 2 | 122 | 5 | 42 | 5 | 536 |
-| 90d | 2026-07-23 | 3 | 192 | 5 | 57 | 5 | 905 |
-| last180d | 2026-04-24 | 7 | 377 | 5 | 106 | 5 | 1626 |
-| 360d | 2025-10-26 | 15 | 781 | 6 | 271 | 5 | 3637 |
-| last720d | 2024-10-31 | 29 | 1485 | 7 | 954 | 5 | 6704 |
+| 30d | 2026-09-22 | 1 | 58 | 7 | 19 | 4 | 270 |
+| last60d | 2026-08-23 | 2 | 122 | 7 | 43 | 4 | 536 |
+| 90d | 2026-07-24 | 3 | 192 | 7 | 59 | 4 | 905 |
+| last180d | 2026-04-25 | 7 | 377 | 7 | 106 | 4 | 1626 |
+| 360d | 2025-10-27 | 15 | 768 | 8 | 271 | 4 | 3637 |
+| last720d | 2024-11-01 | 28 | 1485 | 9 | 954 | 4 | 6696 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ freqtrade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T03:52:23Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T03:52:33Z._

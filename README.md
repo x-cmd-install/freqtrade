@@ -26,13 +26,13 @@ Total: **255,910** lines of code across **533** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.9 / 10**
+Overall score: **7.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 3/14 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 55,676 · **Forks**: 11,535 · **Open issues**: 5,701 · **Contributors**: 340
+- **Stars**: 55,718 · **Forks**: 11,540 · **Open issues**: 5,702 · **Contributors**: 340
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 6823 · **Open PRs**: 8 · **Closed issues**: 5677 · **Open issues**: 24 · **Commits**: 33278
+- **Releases**: 118 · **Merged PRs**: 6823 · **Open PRs**: 10 · **Closed issues**: 5679 · **Open issues**: 23 · **Commits**: 33278
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 59 | 5 | 17 | 5 | 270 |
-| last60d | 2026-08-22 | 2 | 122 | 5 | 42 | 5 | 536 |
-| 90d | 2026-07-23 | 3 | 192 | 5 | 57 | 5 | 905 |
-| last180d | 2026-04-24 | 7 | 377 | 5 | 106 | 5 | 1626 |
-| 360d | 2025-10-26 | 15 | 781 | 6 | 271 | 5 | 3637 |
-| last720d | 2024-10-31 | 29 | 1485 | 7 | 954 | 5 | 6704 |
+| 30d | 2026-09-22 | 1 | 58 | 7 | 19 | 4 | 270 |
+| last60d | 2026-08-23 | 2 | 122 | 7 | 43 | 4 | 536 |
+| 90d | 2026-07-24 | 3 | 192 | 7 | 59 | 4 | 905 |
+| last180d | 2026-04-25 | 7 | 377 | 7 | 106 | 4 | 1626 |
+| 360d | 2025-10-27 | 15 | 768 | 8 | 271 | 4 | 3637 |
+| last720d | 2024-11-01 | 28 | 1485 | 9 | 954 | 4 | 6696 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for freqtrade lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T03:52:22Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T03:52:32Z._
