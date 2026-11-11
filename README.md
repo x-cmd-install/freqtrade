@@ -37,7 +37,7 @@ Total: **257,973** lines of code across **530** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 56,722 · **Forks**: 11,728 · **Open issues**: 5,704 · **Contributors**: 344
+- **Stars**: 56,752 · **Forks**: 11,732 · **Open issues**: 5,704 · **Contributors**: 344
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **257,973** lines of code across **530** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 63 | 2 | 16 | 0 | 221 |
-| last60d | 2026-09-11 | 2 | 128 | 2 | 34 | 1 | 524 |
-| 90d | 2026-08-12 | 3 | 181 | 2 | 64 | 1 | 839 |
-| last180d | 2026-05-14 | 7 | 383 | 2 | 110 | 1 | 1670 |
-| 360d | 2025-11-15 | 15 | 771 | 3 | 248 | 1 | 3553 |
-| last720d | 2024-11-20 | 29 | 1491 | 4 | 911 | 1 | 6615 |
+| 30d | 2026-10-12 | 1 | 57 | 2 | 16 | 0 | 221 |
+| last60d | 2026-09-12 | 2 | 127 | 2 | 34 | 1 | 524 |
+| 90d | 2026-08-13 | 3 | 180 | 2 | 63 | 1 | 839 |
+| last180d | 2026-05-15 | 7 | 382 | 2 | 110 | 1 | 1670 |
+| 360d | 2025-11-16 | 15 | 771 | 3 | 247 | 1 | 3553 |
+| last720d | 2024-11-21 | 29 | 1490 | 4 | 907 | 1 | 6614 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for freqtrade lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T06:33:40Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:19:46Z._
