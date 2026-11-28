@@ -2,12 +2,12 @@ about:
   description: "Free, open source crypto trading bot"
   license: GPL-3.0
   homepage: https://www.freqtrade.io
-  head: e191b54
+  head: 971987f
   archived: false
   latestVersion: "2026.10"
   latestRelease: "2026.10"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T07:25:24Z
+  collectedAt: 2026-11-28T06:55:59Z
 timeline:
   created: 2017-05-17
   lastCommit: 2026-11-27
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-10-30
   lastPrerelease: 
 popularity:
-  star: 57320
-  watcher: 785
-  fork: 11811
+  star: 57345
+  watcher: 787
+  fork: 11821
   release: 119
   contributor: 345
-  pullRequest: 7951
+  pullRequest: 7952
   issue: 5688
 language:
-  Python: 5548059
+  Python: 5552577
   Jinja: 38173
   PowerShell: 16272
   Jupyter Notebook: 14363
@@ -31,66 +31,66 @@ language:
   Dockerfile: 1532
   HTML: 753
   Gnuplot: 221
-totalBytes: 5630104
+totalBytes: 5634622
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
-    mergedPR: 44
+    mergedPR: 42
     openPR: 3
     closedIssue: 10
-    openIssue: 2
-    commit: 152
+    openIssue: 1
+    commit: 154
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
-    mergedPR: 105
+    mergedPR: 103
     openPR: 4
-    closedIssue: 30
-    openIssue: 3
-    commit: 456
+    closedIssue: 31
+    openIssue: 2
+    commit: 458
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 3
     mergedPR: 169
     openPR: 4
-    closedIssue: 48
-    openIssue: 3
-    commit: 742
+    closedIssue: 49
+    openIssue: 2
+    commit: 744
   last180d:
-    since: 2026-05-31
-    release: 7
-    mergedPR: 371
+    since: 2026-06-01
+    release: 6
+    mergedPR: 360
     openPR: 4
-    closedIssue: 98
-    openIssue: 3
-    commit: 1619
+    closedIssue: 99
+    openIssue: 2
+    commit: 1621
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 14
-    mergedPR: 740
+    mergedPR: 739
     openPR: 5
     closedIssue: 236
-    openIssue: 3
-    commit: 3447
+    openIssue: 2
+    commit: 3449
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 28
-    mergedPR: 1478
+    mergedPR: 1479
     openPR: 5
-    closedIssue: 865
-    openIssue: 3
-    commit: 6479
+    closedIssue: 863
+    openIssue: 2
+    commit: 6478
 total:
   release: 119
-  mergedPR: 6884
+  mergedPR: 6885
   openPR: 7
-  closedIssue: 5667
-  openIssue: 21
-  commit: 33475
+  closedIssue: 5668
+  openIssue: 20
+  commit: 33477
 ---
 path: /home/runner/.x-repo/github.com/freqtrade/freqtrade
-collectedAt: 2026-11-27T07:25:57Z
+collectedAt: 2026-11-28T06:56:29Z
 loc:
   Json:
     code: 133358
@@ -98,9 +98,9 @@ loc:
     blanks: 2
     files: 19
   Python:
-    code: 123967
+    code: 124023
     comments: 6726
-    blanks: 19676
+    blanks: 19683
     files: 487
   Jinja2:
     code: 916
@@ -173,9 +173,9 @@ loc:
     blanks: 16
     files: 8
 total:
-  code: 261905
+  code: 261961
   comments: 19664
-  blanks: 24953
+  blanks: 24960
   files: 646
 ---
 date: "2026-11-23"
